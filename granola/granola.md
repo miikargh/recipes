@@ -16,7 +16,7 @@
 
 ## Macros per 100g
 - Calories: 411kcal
-- Carbs: 59g (sugars: 15g)
+- Carbs: 59g (sugars: 15g, fiber: 12g)
 - Fat: 14g
 - Protein: 13g
 
