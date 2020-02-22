@@ -13,3 +13,12 @@
 - Bake for 20 min at 150C
 - Take out and mix it up again
 - Turn down the heat to 120C and bake for another 20 min
+
+## Macros per 100g
+- Calories: 411kcal
+- Carbs: 59g (sugars: 15g)
+- Fat: 14g
+- Protein: 13g
+
+More detailed nutrition facts can be found in the `nutrition-info.csv` file.
+
