@@ -8,7 +8,8 @@
 
 ## Instructions
 - Pre-heat oven to 150 degrees celcius
-- Mix everything up in a bowl
+- Mix everything up in a bowl. Make sure that the syrup is evenly mixed!
 - Spread on a baking sheet on a baking tray
 - Bake for 20 min at 150C
-- Turn down the heat to 120C and bake for another 30 min
+- Take out and mix it up again
+- Turn down the heat to 120C and bake for another 20 min
