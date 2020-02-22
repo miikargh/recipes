@@ -10,9 +10,9 @@ Tasty rolls that go well with soups. (Not very fluffy but very good!)
 - ~3.5 dl oat milk (or water)
 
 ## Instructions
-- Preheat oven to 200 celcius
+- Preheat oven to 180 celcius
 - Blend all dry ingredients together
 - Add oat milk
 - Mix with a spoon and add more milk if too dry
 - Make 6-8 flat buns
-- Bake for 25 mins
+- Bake for 30 mins
