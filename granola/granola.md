@@ -3,7 +3,7 @@
 ## Ingredients
 - 300g oats
 - 30g coconut flakes
-- 50g hemp seeds
+- 100g hemp seeds
 - 100g dark syrup
 
 ## Instructions
