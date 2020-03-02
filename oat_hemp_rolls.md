@@ -11,7 +11,7 @@ Tasty rolls that go well with soups. (Not very fluffy but very good!)
 - ~3.5 dl oat milk (or water)
 
 ## Instructions
-- Preheat oven to 180 celcius
+- Preheat oven to 150 celcius
 - Blend all dry ingredients together
 - Add oat milk
 - Mix with a spoon and add more milk if too dry
